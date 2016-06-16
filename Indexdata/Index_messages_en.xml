@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[TalleresRataliendo]]></data>
+  <data name="en_project_author_name"><![CDATA[Rata Liendo Julian]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.rataliendo.com]]></data>
+
+
+
+  <data name="en_pano19_title"><![CDATA[Equipo Titular]]></data>
+
+
+  <data name="en_pano22_title"><![CDATA[Popular Willington ]]></data>
+
+
+  <data name="en_pano25_title"><![CDATA[Platea Ardiles ]]></data>
+
+
+  <data name="en_pano28_title"><![CDATA[Popular Artime ]]></data>
+
+
+  <data name="en_pano31_title"><![CDATA[Platea Gasparini ]]></data>
+
+
+  <data name="en_pano34_title"><![CDATA[Patio Olmos Festejos]]></data>
+
+
+	<data name="en_spotmap351_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap352_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap353_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap354_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap355_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap356_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="en_controlBar_urbanmoveLeftTip"><![CDATA[Mover a la izquierda]]></data>
+  <data name="en_controlBar_urbanmoveRightTip"><![CDATA[Mover a la Derecha]]></data>
+  <data name="en_controlBar_urbanmoveUpTip"><![CDATA[Mover hacia Arriba]]></data>
+  <data name="en_controlBar_urbanmoveDownTip"><![CDATA[Mover hacia Abajo]]></data>
+  <data name="en_controlBar_urbanhomeTip"><![CDATA[Inicio]]></data>
+  <data name="en_controlBar_urbanopenFsTip"><![CDATA[Introducir Pantalla Completa]]></data>
+  <data name="en_controlBar_urbancloseFsTip"><![CDATA[Salir de Pantalla completa]]></data>
+  <data name="en_controlBar_urbansoundsOnTip"><![CDATA[Iniciar Sonidos]]></data>
+  <data name="en_controlBar_urbansoundsOffTip"><![CDATA[Detener Sonidos]]></data>
+  <data name="en_controlBar_urbanshareTip"><![CDATA[Compartir ]]></data>
+  <data name="en_controlBar_urbandisplayControlsTip"><![CDATA[Mostrar Controles]]></data>
+  <data name="en_controlBar_urbanhideControlsTip"><![CDATA[Ocultar los Controles]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Introducir Pantalla Completa]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Salir de vista de Pantalla Completa]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.clubtalleres.com.ar/]]></data>
+  <data name="en_logotooltipText"><![CDATA[Abrir sitio web]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[https://www.facebook.com/rataliendoproducciones/?ref=bookmarks]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Abrir sitio web]]></data>
+  <data name="en_logo1websiteurl"><![CDATA[http://www.Rataliendo.com]]></data>
+  <data name="en_logo1tooltipText"><![CDATA[www.RataLiendo.com]]></data>
+  <data name="en_button2tooltip"><![CDATA[FOTOS]]></data>
+  <data name="en_buttontooltip"><![CDATA[Drone]]></data>
+  <data name="en_togglebuttonfirsttooltip"><![CDATA[Video Festejo Ascenso]]></data>
+  <data name="en_togglebuttonsecondtooltip"><![CDATA[Resumen del partido]]></data>
+  <data name="en_togglebuttondisplaywebvideovideoid"><![CDATA[zqlbf88G_3c]]></data>
+  <data name="en_togglebuttondisplaywebvideovideoid"><![CDATA[zqlbf88G_3c]]></data>
+  <data name="en_gallerypicture_title0"><![CDATA[Mirador Urca]]></data>
+  <data name="en_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery2picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery2picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery2picture_title1"><![CDATA[]]></data>
+  <data name="en_gallery2picture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery2picture_title2"><![CDATA[]]></data>
+  <data name="en_gallery2picture_caption2"><![CDATA[]]></data>
+  <data name="en_gallery2picture_title3"><![CDATA[]]></data>
+  <data name="en_gallery2picture_caption3"><![CDATA[]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
